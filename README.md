@@ -2,9 +2,9 @@
 
 Run a Web-Server for the current directory instantly.
 
-![alt install and run here_server][resources/bash]
+![alt install and run here_server](/resources/bash)
 
-![alt open browser][resources/browser]
+![alt open browser](/resources/browser)
 
 ## Installation
 
