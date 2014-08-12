@@ -2,6 +2,10 @@
 
 Run a Web-Server for the current directory instantly.
 
+![alt install and run here_server][resources/bash]
+
+![alt open browser][resources/browser]
+
 ## Installation
 
 Add this line to your application's Gemfile:
