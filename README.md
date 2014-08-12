@@ -2,16 +2,20 @@
 
 Run a Web-Server for the current directory instantly.
 
-install here_server
+1. install here_server
+
 ![alt install here_server](/resources/bash1.png)
 
-change to target directory
+2. change to target directory
+
 ![alt change to target directory](/resources/bash2.png)
 
-run here_server
+3. run here_server
+
 ![alt run here_server](/resources/bash3.png)
 
-open browser
+4. open browser
+
 ![alt open browser](/resources/browser.png)
 
 ## Installation
